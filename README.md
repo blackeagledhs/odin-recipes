@@ -1,2 +1,1 @@
-# odin-recipes
-Working with simple site with html and css
+Hello everyone, in this repo i try to put in practice all my knowledge in html, css and javascript. I want learn more about web development.
